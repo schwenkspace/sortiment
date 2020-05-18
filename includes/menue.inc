@@ -1,6 +1,4 @@
 <div style="float:left; margin-top:50px; width:200px;font-family: sans-serif;">
-<p>github-Repository unter <a href="https://github.com/schwenkspace/sortiment" target=_blank></a>. </p>
-<hr>
 <h3>Menü</h3>
 
 Produkte verwalten<ul>
